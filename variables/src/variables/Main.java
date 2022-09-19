@@ -8,7 +8,7 @@ public class Main {
 		double sayi2=12.43;// ondalıklı değer tutar.
 		char karakter='F';// tek karekter tutar.
 		String ad="fırat";// metin olarak referans tutar.
-		boolean dogrumu=true;// iki değer tutar true false
+		boolean dogrumu=false;// iki değer tutar true false
 		
 	}
 
