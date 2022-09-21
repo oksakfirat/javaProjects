@@ -6,9 +6,9 @@ public class Main {
 		String mesaj = "Bugün hava çok güzel";
 		System.out.println(mesaj);
 		
-		System.out.println("Eleman sayýsý : "+mesaj.length());
+		System.out.println("Eleman sayisi : "+mesaj.length());
 		System.out.println("5. Eleman : " +mesaj.charAt(4));
-		System.out.println(mesaj.concat(" Yaþasýn"));
+		System.out.println(mesaj.concat(" Yaþasin"));
 		System.out.println(mesaj.startsWith("t"));
 		System.out.println(mesaj.endsWith("l"));
 		char[] karakterler= new char[5];
